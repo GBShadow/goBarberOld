@@ -30,16 +30,16 @@ export const Content = styled.div`
   }
 
   aside {
-    display: inline;
+    display: flex;
     align-items: center;
   }
 `;
 
 export const Profile = styled.div`
   display: flex;
-  margin-right: 20px;
-  padding-right: 20px;
-  border-right: 1px solid #eee;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 1px solid #eee;
 
   div {
     text-align: right;
