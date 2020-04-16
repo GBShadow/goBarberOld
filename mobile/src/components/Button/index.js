@@ -22,5 +22,5 @@ Button.propTypes = {
 };
 
 Button.defaultProps = {
-  loading: null,
+  loading: false,
 };
